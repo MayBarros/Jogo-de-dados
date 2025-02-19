@@ -3,7 +3,7 @@
 O site tem como objetivo simular o lançamento de dados. 
 Ele disponibiliza uma API REST que permite aos usuários realizar essa simulação utilizando métodos HTTP (GET, POST, PUT, DELETE). 
 A API suporta a escolha diferentes tipos de dados, são 4, 6, 8, 10, 12, 20 e 100 lados.
-Para escolher o tipo o dado desejado, o usuário faz uma requisição GET, passando um parâmetro que indica a quantidade de lados do dado a ser lançado. 
+Para escolher o dado desejado, o usuário faz uma requisição GET, passando um parâmetro que indica a quantidade de lados do dado a ser lançado. 
 O sistema então retorna um valor aleatório correspondente ao resultado do lançamento.
 
 ## Funcionalidades
