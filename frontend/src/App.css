@@ -1,0 +1,43 @@
+
+/* Base */
+body {
+  font-family: Arial, sans-serif;
+  background: #ffd1dc; 
+  color: white;
+  text-align: center;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start; /* Centraliza no topo da página */
+  margin: 0;
+  
+}
+.app-container {
+  background: rgba(0, 0, 0, 0.7);
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.3);
+  max-width: 400px;
+  width: 100%;
+}
+
+
+/* Títulos */
+h1 {
+  font-size: 50px;
+  margin-bottom: 20px;
+  color: black; 
+}
+h2{
+  color:black;
+  font-size: 50px;
+}
+
+/* Botões dos lados dos dados */
+.dice-buttons {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 10px;
+}
+
