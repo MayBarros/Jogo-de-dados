@@ -33,12 +33,11 @@ O site permite rolar dados com um número específico de lados, incluindo:
 - **Dado Escolhido**: "D6"
 - **Resultado**: 3
   
-Para iniciar o projeto será necessário:
+## Para iniciar o projeto será necessário:
  
 Back-end (Node.js/Express): 👉 http://localhost:5000/
 \jogo-dados\backend> node server.js
-Servidor rodando em http://localhost:5000
+
 
 Front-end (React): 👉 http://localhost:3000/
- \jogo-dados> cd frontend
 \jogo-dados\frontend> npm start
